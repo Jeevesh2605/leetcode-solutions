@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Hash Table
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
