@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
