@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1975-maximum-matrix-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 ## Sliding Window
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Prefix Sum
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
