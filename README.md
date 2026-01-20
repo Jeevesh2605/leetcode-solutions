@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Monotonic Stack
