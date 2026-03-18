@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
