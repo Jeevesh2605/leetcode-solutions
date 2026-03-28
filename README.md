@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3640-trionic-array-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -373,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
