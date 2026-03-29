@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
