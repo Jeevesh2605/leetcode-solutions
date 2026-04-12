@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0823-binary-trees-with-factors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
