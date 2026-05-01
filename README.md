@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0823-binary-trees-with-factors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0396-rotate-function](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0823-binary-trees-with-factors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0396-rotate-function) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1622-fancy-sequence) |
