@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
