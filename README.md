@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
