@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
