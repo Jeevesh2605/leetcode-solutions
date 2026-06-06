@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2574-left-and-right-sum-differences](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
