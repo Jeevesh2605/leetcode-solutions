@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
