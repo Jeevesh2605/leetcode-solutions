@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2751-robot-collisions) |
 ## Array
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
