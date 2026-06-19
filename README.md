@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1732-find-the-highest-altitude](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2615-sum-of-distances) |
