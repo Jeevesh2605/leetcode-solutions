@@ -4,8 +4,7 @@ class MedianFinder {
 
     public MedianFinder() {
         
-    }
-    
+    } 
     public void addNum(int num) {
         if(leftMaxHeap.isEmpty() || num < leftMaxHeap.peek()){
             leftMaxHeap.add(num);
