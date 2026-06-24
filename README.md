@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0823-binary-trees-with-factors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [1200-minimum-absolute-difference](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3713-longest-balanced-substring-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -593,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
@@ -618,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
