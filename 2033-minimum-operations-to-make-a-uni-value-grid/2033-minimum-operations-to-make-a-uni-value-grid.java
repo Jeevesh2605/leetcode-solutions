@@ -14,7 +14,7 @@ class Solution {
         int result = 0;
         for (int num : vec) {
             if (num % x != target % x) {
-                System.out.println(num);
+                // System.out.println(num);
                 return -1;
             }
             result += Math.abs(target - num) / x;
