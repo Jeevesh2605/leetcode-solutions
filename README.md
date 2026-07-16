@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -673,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0204-count-primes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
 |  |
 | ------- |
