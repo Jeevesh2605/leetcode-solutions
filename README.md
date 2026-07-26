@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0823-binary-trees-with-factors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1390-four-divisors) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0823-binary-trees-with-factors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [1200-minimum-absolute-difference](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
