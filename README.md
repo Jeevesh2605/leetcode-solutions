@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3454-separate-squares-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
