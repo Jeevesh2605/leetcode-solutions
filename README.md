@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3379-transformed-array) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3454-separate-squares-ii) |
