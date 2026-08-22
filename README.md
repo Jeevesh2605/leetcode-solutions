@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0823-binary-trees-with-factors](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0823-binary-trees-with-factors) |
 | [1200-minimum-absolute-difference](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
