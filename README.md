@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0198-house-robber) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0268-missing-number) |
@@ -750,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
