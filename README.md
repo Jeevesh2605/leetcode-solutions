@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -788,4 +790,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
