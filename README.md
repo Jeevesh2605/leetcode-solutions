@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3665-twisted-mirror-path-count](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Sliding Window
 |  |
 | ------- |
