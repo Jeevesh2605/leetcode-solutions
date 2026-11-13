@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -817,4 +819,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Jeevesh2605/leetcode-solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
